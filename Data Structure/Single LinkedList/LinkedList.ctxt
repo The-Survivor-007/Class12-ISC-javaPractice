@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=head\ n
+comment2.target=LinkedList\ insertAtFront(LinkedList,\ int)
+comment3.params=head
+comment3.target=void\ deleteAtFront(LinkedList)
+comment4.params=head\ cursor
+comment4.target=void\ deleteAtEnd(LinkedList,\ LinkedList)
+numComments=5
