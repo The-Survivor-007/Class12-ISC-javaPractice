@@ -36,7 +36,7 @@ public class DoubleLinkedList
                     if(head==null){
                         head=node1;
                     }
-                
+                ;
                     
                     break;
                 case 2:
