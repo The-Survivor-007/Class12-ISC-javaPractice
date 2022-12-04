@@ -221,6 +221,9 @@ public class LinkedList
                         cursor.next=null;
                     }
     }
+    public static void helloWorld(){
+        System.out.println("Hello World");
+    }
 }
 //next is object
 //data is variable
